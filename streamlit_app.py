@@ -1,10 +1,7 @@
 import streamlit
 streamlit.title('My Parents New Diner')
 
-# Subheading 1
-streamlit.header("Breakfast Menu")
-
-# Content for Subsection 1
-streamlit.text("Dosa")
-streamlit.text("Idly")
-
+streamlit.header('Breakfast Menu')
+streamlit.text('Omega 3 & Blueberry Oatmeal')
+streamlit.text('Kale, Spinach & Rocket Smoothie')
+streamlit.text('Hard-Boiled Free-Range Egg')
